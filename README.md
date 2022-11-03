@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balaajimuthukumar
 - 👀 I’m interested in Software development and travelling
-- 🌱 I’m currently learning spring boot
+- 🌱 I’m currently learning spring boot and React
 - 💞️ I’m looking to collaborate on full stack development projects
 - 📫 How to reach me mbalaji1995@gmail.com
 
